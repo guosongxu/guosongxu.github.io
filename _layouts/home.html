@@ -11,13 +11,9 @@ layout: default
   </div>
 </div>
 
-{% include publications.html %}
-
 <div class="row g-5 mb-5">
   <div class="col-md-12">
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Updates</h3>
-    {% for post in site.posts %}
-      <p><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
-    {% endfor %}
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
+    <p style="font-family:georgia;font-size:17px;margin-bottom:1px;"><strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3140400" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)" style="text-decoration:none;">The Role of Internal M&amp;A Teams in Takeovers</a></strong><br><strong>Review of Finance</strong>, 2021, with Nihat Aktas, Audra Boone, Alexander Witkowski, and Burcin Yurtoglu<br> </p>
   </div>
 </div>
