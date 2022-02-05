@@ -1,3 +1,6 @@
 menu:
 - {name: 'Home', url: '/'}
 - {name: 'CV', url: '/assets/Resume.pdf'}
+
+social:
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/guosongxu/'}
