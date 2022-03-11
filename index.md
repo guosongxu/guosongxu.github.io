@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-Guosong Xu is an Assistant Professor of Finance at Rotterdam School of Management at Erasmus University. He is also an Associate Member of the Erasmus Research Institute of Management (ERIM).
+I am an Assistant Professor of Finance at Rotterdam School of Management at Erasmus University. I am also an Associate Member of the Erasmus Research Institute of Management (ERIM).
 
 <p style="margin-bottom:10px"><strong>Research interests:</strong><br>
 Corporate Finance, Behavioral Finance, Political Economics<p>
