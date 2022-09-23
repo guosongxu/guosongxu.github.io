@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-I am an Assistant Professor of Finance at Rotterdam School of Management at Erasmus University. I am also an Associate Member of the Erasmus Research Institute of Management (ERIM). I coordinate <a href="https://www.erim.eur.nl/ecfcg/events/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)" style="text-decoration:none;">Erasmus Finance Research Seminars</a> in 2022 - 2023.
+I am an Assistant Professor of Finance at Rotterdam School of Management at Erasmus University. I am also an Associate Member of the Erasmus Research Institute of Management (ERIM).
 
 <p style="margin-bottom:10px"><strong>Research interests:</strong><br>
 Corporate Finance, Behavioral Finance, Climate, M&As<p>
