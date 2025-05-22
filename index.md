@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-I am an Assistant Professor of Finance at Rotterdam School of Management at Erasmus University.
+I am an Associate Professor of Finance at Rotterdam School of Management at Erasmus University.
 
 <p style="margin-bottom:10px"><strong>Research interests:</strong><br>
 Primary: Corporate finance; Secondary: Climate, M&As, Political economics<p>
