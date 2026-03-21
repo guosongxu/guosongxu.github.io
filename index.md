@@ -6,7 +6,7 @@ title: "Home"
 I am an Associate Professor of Finance at Rotterdam School of Management at Erasmus University.
 
 <p style="margin-bottom:10px"><strong>Research interests:</strong><br>
-Primary: Corporate finance; Secondary: Climate, M&As, Political economics<p>
+Corporate finance, climate finance, M&As, political economics<p>
 
 <p style="margin-bottom:1px"><a style="color:#006400" href="mailto:xu@rsm.nl">xu@rsm.nl</a></p>
 <p style="margin-bottom:1px">Department of Finance, RSM</p>
